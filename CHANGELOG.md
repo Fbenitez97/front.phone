@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [4.15.2-beta] - 2022-03-23
+
 ## [4.15.1-beta] - 2022-03-03
 
 ### Changed
@@ -295,3 +297,7 @@ The project is now available on npm, so you may now use it with Webpack and Reac
 
 - New country! Welcome, Paraguay
 - Improve Brazil's regex
+
+
+[Unreleased]: https://github.com/vtex/front.phone/compare/v4.15.2-beta...HEAD
+[4.15.2-beta]: https://github.com/vtex/front.phone/compare/v4.15.1-beta...v4.15.2-beta
